@@ -1,0 +1,27 @@
+{
+
+"Nolan": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "EpicBooth"
+},
+
+"ZenuuxSecret": {
+    "Active": false,
+    "RewardType": "Booth",
+    "RewardValue": "ZenuuxBooth"
+},
+
+"RocketBooth2023": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "RocketBooth"
+},
+
+"bobukz": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "69420"
+}
+
+}
